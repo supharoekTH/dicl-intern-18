@@ -62,4 +62,4 @@ A5:
 
 ## Submitting
 
-Please fork this repo and submit your repository at memo.games@gmail.com
+ให้น้องๆ fork repo นี้แล้วตอบคำถาม จากนั้นส่ง repo มาที่ อีเมลล์ memo.games@gmail.com
